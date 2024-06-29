@@ -13,9 +13,9 @@ These files are a KNIME-specific format optimized for fast processing and effici
 
 Data Structure:
 
--Rows: Represent individual samples, often identified by unique IDs.
--Columns: Represent features or characteristics measured for each sample.
--Last Column: Contains class labels, typically indicating control or case status.
+- Rows: Represent individual samples, often identified by unique IDs.
+- Columns: Represent features or characteristics measured for each sample.
+- Last Column: Contains class labels, typically indicating control or case status.
 
 
 # The 3Mont Workflow
