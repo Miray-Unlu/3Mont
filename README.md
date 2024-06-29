@@ -2,3 +2,17 @@ The 3-Multi-omics integrative (3Mont) analyzes different levels of biological da
 The tool integrates various omics data by grouping them, upgrading to pro-groups and assigning scores to each pro-group using Feature importance scoring (FIS) component. 
 Following that, constructing Machine Learning (ML) models based on the prominent pro-groups enables extracting promising biomarkers for distinguishing BRCA subtypes.
 This approach empowers the users to analyze the collective behavior of features in each pro-group (biological groups) through ML methods. 
+
+# Preparation of Biological Data
+
+This workflow utilizes the KNIME Analytics Platform (https://www.knime.com/) to analyze data stored in  .table files. 
+These files are a KNIME-specific format optimized for fast processing and efficient storage.
+
+Data Structure:
+
+Rows: Represent individual samples, often identified by unique IDs.
+Columns: Represent features or characteristics measured for each sample.
+Last Column: Contains class labels, typically indicating control or case status.
+
+
+# The 3Mont Workflow
