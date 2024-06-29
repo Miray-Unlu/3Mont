@@ -20,6 +20,5 @@ Data Structure:
 
 # The 3Mont Workflow
 
- ![alt text](https://github.com/malikyousef/3Mont/main/Images/3Mont_main_workflow.png?raw=true)
+ ![alt text](https://github.com/malikyousef/3Mont/tree/d2eb612aef3bb0d373d2400a96d1764af56e27aa/Images/3Mont_main_workflow.png?raw=true)
 
-Images
