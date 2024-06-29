@@ -28,4 +28,4 @@ When applied to BRCA molecular subtype datasets, 3Mont identifies distinct group
 
 3Mont offers a more comprehensive view of the results, allowing you to explore these groups from the perspective of miRNAs, CpGs, and genes.
 
- ![alt text](https://github.com/malikyousef/3Mont/blob/main/Images/Group_statistics.png?raw=true)
+ ![alt text](https://github.com/malikyousef/3Mont/blob/main/Images/Group_statistics.PNG?raw=true)
