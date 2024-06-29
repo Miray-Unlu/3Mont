@@ -22,3 +22,10 @@ Data Structure:
 
  ![alt text](https://github.com/malikyousef/3Mont/blob/main/Images/3Mont_main_workflow.png?raw=true)
 
+ # Key Feature Findings from 3Mont Analysis
+
+When applied to BRCA molecular subtype datasets, 3Mont identifies distinct groups associated with the disease. This summary highlights the characteristics of the top 10 identified groups, including their associated genes.
+
+3Mont offers a more comprehensive view of the results, allowing you to explore these groups from the perspective of miRNAs, CpGs, and genes.
+
+ ![alt text](https://github.com/malikyousef/3Mont/blob/main/Images/Group_statistics.png?raw=true)
