@@ -20,7 +20,7 @@ Data Structure:
 
 # The 3Mont Workflow
 
- ![alt text](https://github.com/malikyousef/3Mont/blob/main/Images/3Mont_main_workflow.png?raw=true)
+ ![alt text](https://github.com/malikyousef/3Mont/blob/main/Images/3Mont_workflow.png?raw=true)
 
  # Key Feature Findings from 3Mont Analysis
 
