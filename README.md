@@ -1,5 +1,8 @@
-The 3-Multi-omics integrative (3Mont) analyzes different levels of biological data (genes, proteins, methylation data, microRNAs, etc.) to obtain unique patterns within each subtype, phenotype or control/case status. These patterns provide us a deeper understanding of how each subtype operates at cellular level. This promising approach selects the potential features across biological data, groups them. The features like puzzle pieces functioning together are analyzed as a whole in the group.
+The 3-Multi-omics integrative (3Mont) analyzes different levels of biological data (genes, proteins, methylation data, microRNAs, etc.) to obtain unique patterns within each subtype, phenotype or control/case status. 
+
+These patterns provide us a deeper understanding of how each subtype operates at cellular level. This promising approach selects the potential features across biological data, groups them. The features like puzzle pieces functioning together are analyzed as a whole in the group.
 The tool integrates various omics data by grouping them, upgrading to pro-groups and assigning scores to each pro-group using Feature importance scoring (FIS) component. 
+
 Following that, constructing Machine Learning (ML) models based on the prominent pro-groups enables extracting promising biomarkers for distinguishing BRCA subtypes.
 This approach empowers the users to analyze the collective behavior of features in each pro-group (biological groups) through ML methods. 
 
@@ -10,9 +13,9 @@ These files are a KNIME-specific format optimized for fast processing and effici
 
 Data Structure:
 
-*Rows: Represent individual samples, often identified by unique IDs.
-*Columns: Represent features or characteristics measured for each sample.
-*Last Column: Contains class labels, typically indicating control or case status.
+Rows: Represent individual samples, often identified by unique IDs.
+Columns: Represent features or characteristics measured for each sample.
+Last Column: Contains class labels, typically indicating control or case status.
 
 
 # The 3Mont Workflow
