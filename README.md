@@ -1,4 +1,4 @@
-The 3-Multi-omics integrative (3Mont) analyzes different levels of biological data (genes, proteins, methylation data, microRNAs, etc.) to obtain unique patterns within each subtype, phenotype or control/case status. 
+The 3-Multi-omics integrative tool (3Mont) analyzes different levels of biological data (genes, proteins, methylation data, microRNAs, etc.) to obtain unique patterns within each subtype, phenotype or control/case status. 
 
 These patterns provide us a deeper understanding of how each subtype operates at cellular level. This promising approach selects the potential features across biological data, groups them. The features like puzzle pieces functioning together are analyzed as a whole in the group.
 The tool integrates various omics data by grouping them, upgrading to pro-groups and assigning scores to each pro-group using Feature importance scoring (FIS) component. 
